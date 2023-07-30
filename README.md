@@ -67,8 +67,8 @@ Oh, one more thing, please do not forget to put a description when you make your
 
 ## Author
 Justin Jabo
-- [Linkedin Article](https://github.com/justinjabo250) 
-- [Medium Article] (https://medium.com/@jabojustin250)
+- [Linkedin Article](https://www.linkedin.com/pulse/bert-sentiment-analysis-app-based-natural-language-nlp-jabo-justin) 
+- [Medium Article] (https://medium.com/@jabojustin250/bert-sentiment-analysis-app-901447e80a2f)
 - [Github Repository] (https://github.com/justinjabo250) 
 ...
 
