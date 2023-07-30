@@ -19,7 +19,7 @@ The COVID-19 pandemic has had a significant global impact, affecting economies, 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| Gradio and and Streamlit App | BERT Sentiment Analysis App based Natural Language Processing (NLP) implementation Project|  [Read more here](https://medium.com/@jabojustin250/bert-sentiment-analysis-app-901447e80a2f) | [Check on the App](http://127.0.0.1:7865) |
+| Gradio and and Streamlit App | BERT Sentiment Analysis App based Natural Language Processing (NLP) implementation Project|  [Read more here]((https://www.linkedin.com/pulse/bert-sentiment-analysis-app-based-natural-language-nlp-jabo-justin)(https://medium.com/@jabojustin250/bert-sentiment-analysis-app-901447e80a2f)) | [Check on the App](http://127.0.0.1:7865) |
 
 ## Project Description
 
@@ -69,6 +69,6 @@ Oh, one more thing, please do not forget to put a description when you make your
 Justin Jabo
 - [Linkedin Article](https://www.linkedin.com/pulse/bert-sentiment-analysis-app-based-natural-language-nlp-jabo-justin) 
 - [Medium Article] (https://medium.com/@jabojustin250/bert-sentiment-analysis-app-901447e80a2f)
-- [Github Repository] (https://github.com/justinjabo250) 
+- [Github Repository] (https://github.com/justinjabo250)
 ...
 
